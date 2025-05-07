@@ -24,7 +24,7 @@ The following Environment Variables must be set in your shell prior to running a
 * `ARM_SUBSCRIPTION_ID`
 * `ARM_TENANT_ID`
 * `ARM_ENVIRONMENT`
-* `ARM_METADATA_HOST`
+* `ARM_METADATA_HOSTNAME`
 * `ARM_TEST_LOCATION`
 * `ARM_TEST_LOCATION_ALT`
 * `ARM_TEST_LOCATION_ALT2`
